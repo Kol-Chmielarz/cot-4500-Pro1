@@ -1,4 +1,0 @@
-#numpy 
-#Python 3.13.0
-
-#This is run on macOS, I don't think it makes a difference but if it doesn't work on your end could be why.
